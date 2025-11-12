@@ -1,0 +1,14 @@
+Plan
+
+- 4 pages
+
+1. A home index page, with a navbar which includes button animations using flexbox.
+
+2. A potential clients page using grid. in the grid there must be a picture of the house, and specifications using the design laws.
+
+3. A signup page, learn how to make nice input areas. 
+
+4. The price calculator. without the usability part.
+
+
+Dark mode option and responsive. import a font, form fontshare
