@@ -40,7 +40,7 @@ body {
     font-size: var(--FF-SIZE-BASE);
     background-image: linear-gradient(to bottom, var(--SECONDARY-COLOR), hsla(229, 71%, 61%, 0.329) 50%);
     background-repeat: no-repeat;
-    min-height: 100%;
+    min-height: 100vh;
 }
 
 header {
@@ -87,3 +87,4 @@ header {
     margin: 8rem;
     font: var(--FF-SIZE-XLARGE) var(--FONT-PRIMARY);
 }
+
